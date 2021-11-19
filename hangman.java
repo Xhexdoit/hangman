@@ -240,8 +240,8 @@ public class hanged {
                         hanged.setSecretWord();
                         hanged.encryptedWord(secretWord);
                         hanged.theGame(asteriskWord);
-                        break;
                     }
+                    break;
                 case 'N':
                     System.out.println("¡Hasta Luego!");
                     stop=true;
