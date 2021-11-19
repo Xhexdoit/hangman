@@ -115,16 +115,6 @@ public class hanged {
                 break;
 
             case 5:
-                System.out.println("¡Respuesta incorrecta! ¡Prueba otra vez!");
-                System.out.println("{'|',' ','|',' '}");
-                System.out.println("{'|',' ','O',' '}");
-                System.out.println("{'|','_','|','_'}");
-                System.out.println("{'|',' ','|',' '}");
-                System.out.println("{'|','/',' ','\'}");
-                System.out.println("{'_','_','_',' '}");
-                break;
-
-            case 6:
                 System.out.println("¡Respuesta incorrecta!");
                 System.out.println("{'_','_','_',' '}");
                 System.out.println("{'|',' ','|',' '}");
