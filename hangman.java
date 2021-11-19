@@ -48,16 +48,6 @@ public class hanged {
     }
 
     /**
-     * La función myLetter pide palabras y las manda a verifyLetter
-     *
-     * @return devuelve la letra introducida por el user
-     */
-
-    // Devuelve TRUE si la letra ya está utilizada, FALSE en caso contrario.
-    //
-    // Si la letra no se ha utilizado, además, la añade al string de letras.
-
-    /**
      * @param character toma una letra y verifica si está repetida o no.
      * @return devuelve un boolean dependiendo de si la encuentra o no.
      */
